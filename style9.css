@@ -1,0 +1,17 @@
+ul li {
+	display: inline;
+	background-color: #55ff00;
+	font-size: 15px;
+	padding: 8px;
+	text-transform:uppercase;
+	color:black;
+	font-weight: 500;
+}
+img{
+ 	display:inline-block;
+ 	zoom:95%;
+ }
+
+#web{
+	margin-top: 0px;
+}

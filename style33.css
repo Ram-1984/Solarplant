@@ -1,0 +1,27 @@
+ul li {
+	display: inline;
+	background-color: #55ff00;
+	font-size: 15px;
+	padding: 8px;
+	text-transform:uppercase;
+	color:black;
+	font-weight: 500;
+}
+img {
+	float: left;
+	width: 500px;
+	height: 300px;
+}
+.text{
+	height: 100px;
+
+}
+.simple{
+	
+	text-align: justify;
+	
+
+}
+.plant{
+	height: 400px;
+	width: 700px;

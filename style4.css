@@ -1,0 +1,16 @@
+ul li {
+	display: inline;
+	background-color: #55ff00;
+	font-size: 15px;
+	padding: 8px;
+	text-transform:uppercase;
+	color:black;
+	font-weight: 500;
+}
+hr{
+	color: blue;
+	width: 20px;
+}
+body{
+	margin-left: 20px;
+}

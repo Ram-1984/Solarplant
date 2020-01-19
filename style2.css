@@ -1,0 +1,31 @@
+ul li {
+	display: inline;
+	background-color: #55ff00;
+	font-size: 15px;
+	padding: 8px;
+	text-transform:uppercase;
+	color:black;
+	font-weight: 500;
+}
+
+body{
+	margin-left: 20px;
+}
+
+img{
+	float: left;
+	width: 400px;
+	height: 300px;
+}
+.text{
+	height: 150px;
+}
+h2{
+	font-style: italic;
+	color: rgb(51, 102, 255,0.9);
+
+}
+h1{
+	font-style: italic;
+	color: rgb(230, 46, 0);
+}

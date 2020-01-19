@@ -1,0 +1,41 @@
+ul li {
+	display: inline;
+	background-color: #55ff00;
+	font-size: 15px;
+	padding: 8px;
+	text-transform:uppercase;
+	color:black;
+	font-weight: 500;
+}
+
+img{
+
+	width: 325px;
+	height: 325px;
+	transition:all(3s);
+}
+
+ }
+.Modules{
+	display:grid;
+	grid-template-columns:1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr;
+	justify-content: start;
+	align-content: start;
+	grid-gap: 30px;
+	border: 50px solid green;
+	padding: 300px;
+	
+
+}
+img:hover{
+	cursor:pointer;
+	zoom:105%;
+	border:green;
+}
+body{
+	margin-left: 15px;
+	margin-top:15px;
+}
+
+
